@@ -23,7 +23,7 @@ Ao comparar a imagem gerada pela IA com a imagem real, podemos observar semelhan
 
 Imagem gerada pelo Microsoft Copilot
 
-![image](https://github.com/AndreiSnt/lab-natty-or-not/blob/main/_e684415c-afa0-4b28-a092-6aef33e7fa8a.jpeg)
+<img src="/blob/main/_e684415c-afa0-4b28-a092-6aef33e7fa8a.jpeg">
 
 
 ## 💭 Reflexão 
