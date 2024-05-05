@@ -1,4 +1,3 @@
-```markdown
 # Comparação de Imagens: IA vs Realidade - Identificando o Estilo Natty vs Fake
 
 ## 📒 Descrição
@@ -23,9 +22,8 @@ Ao comparar a imagem gerada pela IA com a imagem real, podemos observar semelhan
 
 Imagem gerada pelo Microsoft Copilot
 
-<img src="/blob/main/_e684415c-afa0-4b28-a092-6aef33e7fa8a.jpeg">
+[image](https://github.com/AndreiSnt/lab-natty-or-not/blob/6227dcde44ff7c79279b323fcd3ad9e04a728727/_e684415c-afa0-4b28-a092-6aef33e7fa8a.jpeg)
 
 
 ## 💭 Reflexão 
 Embora a IA tenha alcançado um alto nível de realismo, a imagem real ainda mantém uma autenticidade única que a distingue como produto da realidade tangível. Este projeto destaca a capacidade emergente das IAs em criar imagens altamente realistas, enquanto ressalta a importância da observação crítica na distinção entre o natural e o artificial.
-```
