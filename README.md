@@ -22,10 +22,10 @@ Comparei detalhadamente a imagem gerada pela IA com a imagem real, identificando
 Ao comparar a imagem gerada pela IA com a imagem real, podemos observar semelhanças marcantes em termos de composição, iluminação e atmosfera. A IA demonstrou habilidades impressionantes em replicar características visuais do mundo real e criar uma representação convincente de um cenário urbano noturno. No entanto, ao analisar detalhes mais sutis, como a textura das superfícies e a precisão da iluminação, é possível identificar nuances que revelam a origem artificial da imagem gerada pela IA.
 
 Imagem gerada pelo Microsoft Copilot
+
 ![image](https://github.com/AndreiSnt/lab-natty-or-not/blob/main/_e684415c-afa0-4b28-a092-6aef33e7fa8a.jpeg)
 
-Imagem real
-![image](https://github.com/AndreiSnt/lab-natty-or-not/blob/main/pequim-a-noite-vista-aerea-com-edificios-urbanos.jpg)
+
 ## 💭 Reflexão 
 Embora a IA tenha alcançado um alto nível de realismo, a imagem real ainda mantém uma autenticidade única que a distingue como produto da realidade tangível. Este projeto destaca a capacidade emergente das IAs em criar imagens altamente realistas, enquanto ressalta a importância da observação crítica na distinção entre o natural e o artificial.
 ```
